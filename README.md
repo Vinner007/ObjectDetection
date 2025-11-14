@@ -222,8 +222,8 @@ This project is licensed under the MIT License
 
 ### 👨‍💻 Developed by **Vinner**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vinner@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner007)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:thanachartzass@gmail.com)
 
 **⭐ ถ้าชอบโปรเจกต์นี้ อย่าลืมกด Star นะครับ! ⭐**
 
