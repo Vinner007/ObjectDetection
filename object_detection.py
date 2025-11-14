@@ -1,6 +1,6 @@
 """
 Object Detection Script using YOLOv8
-ตรวจจับวัตถุทุกประเภทบนโลก (80+ classes from COCO dataset)
+ตรวจจับวัตถุทุก (80+ classes from COCO dataset)
 """
 
 import cv2
