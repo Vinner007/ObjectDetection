@@ -1,4 +1,4 @@
-# 🎯 Object Detection - ตรวจจับวัตถุทุกอย่างบนโลก
+# 🎯 Object Detection - ตรวจจับวัตถุ
 
 > โปรแกรมตรวจจับวัตถุอัจฉริยะด้วย YOLOv8 และ YOLOv11 (State-of-the-Art) สามารถตรวจจับวัตถุได้ 80+ ประเภท แบบ Real-time
 
@@ -7,7 +7,7 @@
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Latest-FF6B6B.svg)](https://github.com/ultralytics/ultralytics)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**👨‍💻 Created by:** [Vinner](https://github.com/vinner)
+**👨‍💻 Created by:** [Vinner](https://github.com/vinner007)
 
 ---
 
@@ -222,8 +222,8 @@ This project is licensed under the MIT License
 
 ### 👨‍💻 Developed by **Vinner**
 
-[![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:vinner@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Vinner-181717?style=for-the-badge&logo=github)](https://github.com/vinner007)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:thanachartzass@gmail.com)
 
 **⭐ ถ้าชอบโปรเจกต์นี้ อย่าลืมกด Star นะครับ! ⭐**
 
