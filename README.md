@@ -7,7 +7,7 @@
 [![YOLOv11](https://img.shields.io/badge/YOLOv11-Latest-FF6B6B.svg)](https://github.com/ultralytics/ultralytics)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-**👨‍💻 Created by:** [Vinner](https://github.com/vinner)
+**👨‍💻 Created by:** [Vinner](https://github.com/vinner007)
 
 ---
 
